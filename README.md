@@ -72,7 +72,7 @@ Full config: [`config/ipsec-site-to-site.conf`](config/ipsec-site-to-site.conf) 
 ## Author
 
 Kodjo Apedoh — Network & Cloud Security · Arlington, VA
-CCNA · **Fortinet NSE** · Palo Alto SASE & Cloud Security · [LinkedIn](https://www.linkedin.com/in/kodjo-apedoh) · [Other labs](https://github.com/ktf40858-stack)
+CCNA · **Fortinet NSE** · Palo Alto SASE & Cloud Security · [LinkedIn](https://www.linkedin.com/in/kodjo-apedoh-03030990/) · [Other labs](https://github.com/ktf40858-stack)
 
 ## License
 
